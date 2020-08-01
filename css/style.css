@@ -507,7 +507,8 @@
   color: #f00;
 }
 .nav-left {
-  width: 120px;
+/*  width 120px */
+  width: 130px;
   height: 100%;
   background: #333 /* #2A2935 */;
   box-shadow: inset -15px 0 15px -15px #222;
@@ -520,7 +521,8 @@
   user-select: none;
 }
 .nav-left .avatar {
-  width: 100px;
+/* width 100px  */
+  width: 130px;
   height: 100px;
   margin: 55px auto 15px;
   border-radius: 50%;
